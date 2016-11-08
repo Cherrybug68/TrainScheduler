@@ -1,0 +1,66 @@
+/*fonts to use*/
+/*font-family: 'Metrophobic', sans-serif;*/
+/*font-family: 'UnifrakturCook', cursive;*/
+
+body {
+	background: url("../images/TransitCar_bkg.jpg");
+	background-repeat: no-repeat;
+	background-position: absolute;
+	background-size: 100%;
+	background-color: black;
+	font-family: 'Metrophobic', sans-serif;
+}
+
+#header {
+	font-family: 'UnifrakturCook', cursive;
+	color: black;
+	font-size: 80pt;
+	margin: 10px 0 0 -50px;
+}
+
+#logo {
+	margin: 20px 0 0 -15px;
+	height: 35%;
+	width: 35%;
+}
+
+#boxes {
+	margin-top: 60px;
+}
+
+#addBox {
+	margin
+}
+
+#subHead {
+	font-size: 20pt;
+	margin: 0 0 0 -50px;
+
+}
+
+.panel-warning>.panel-heading {
+	background-color: #cc9900;
+	border-color: #cc9900;
+}
+.panel-title {
+	font-size: 20pt;
+	color: black;
+}
+
+.table th {
+	font-weight: bold;
+	font-size: 12pt;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+tr {
+	border: solid;
+	border-width: 1px 0;
+}
+
+.btn-primary {
+	background: black;
+}
